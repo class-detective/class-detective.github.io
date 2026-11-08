@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # Class Detective
 
 **Find the classes you're eligible to take.**
