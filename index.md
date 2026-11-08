@@ -9,14 +9,14 @@ Class Detective is a web application designed to help students discover courses 
 
 Rather than manually searching through STAR GPS and tediously checking individual prerequisites, students can upload their transcripts or enter their completed courses to find classes they're eligible for.
 
-[![Landing Page Mockup](images/mockup landing.jpg)](images/mockup landing.jpg)
+[![Landing Page Mockup](images/Mockup Landing.jpg)](images/Mockup Landing.jpg)
 
 ## Planned Features
 
 ### Student Accounts
 Students will be able to register for an account and log in to access the web application.
 
-[![Login Page Mockup](images/mockup login.jpg)](images/mockup login.jpg)
+[![Login Page Mockup](images/Mockup Login.jpg)](images/Mockup Login.jpg)
 
 ### Transcript Uploads
 Students will be able to upload their academic transcripts.
@@ -27,12 +27,12 @@ Students will also have the option to manually enter completed courses instead o
 ### Course Search
 Students will be able to browse courses and filter results based on eligibility and completed prerequisites.
 
-[![Browse Courses Mockup](images/mockup browse.jpg)](images/mockup browse.jpg)
+[![Browse Courses Mockup](images/Mockup Browse.jpg)](images/Mockup Browse.jpg)
 
 ### Course Information
 Students will be able to select courses to view additional information about them.
 
-[![Course Information Mockup](images/mocckup course.jpg)](images/mockup course.jpg)
+[![Course Information Mockup](images/Mockup Course.jpg)](images/Mockup Course.jpg)
 
 ## Planned Pages
 
