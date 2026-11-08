@@ -5,8 +5,6 @@ layout: default
 
 # Class Detective
 
-# Class Detective
-
 **Find the classes you're eligible to take.**
 
 ## About Class Detective
