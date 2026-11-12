@@ -9,7 +9,7 @@ Class Detective is a web application designed to help students discover courses 
 
 Rather than manually searching through STAR GPS and tediously checking individual prerequisites, students can upload their transcripts or enter their completed courses to find classes they're eligible for.
 
-[![Landing Page Mockup](images/landing.jpg)](images/landing.jpg)
+[![Landing Page Mockup](images/landing.png)](images/landing.png)
 
 ## Planned Features
 
