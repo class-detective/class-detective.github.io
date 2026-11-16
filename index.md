@@ -16,7 +16,7 @@ Rather than manually searching through STAR GPS and tediously checking individua
 ### Student Accounts
 Students will be able to register for an account and log in to access the web application.
 
-[![Login Page Mockup](images/Mockup Login.jpg)](images/Mockup Login.jpg)
+[![Login Page Mockup](images/login.jpg)](images/login.jpg)
 
 ### Transcript Uploads
 Students will be able to upload their academic transcripts.
