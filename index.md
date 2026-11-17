@@ -29,7 +29,7 @@ Students will also have the option to manually enter completed courses instead o
 ### Course Search
 Students will be able to browse courses and filter results based on eligibility and completed prerequisites.
 
-[![Browse Courses Mockup](images/Mockup Browse.jpg)](images/Mockup Browse.jpg)
+[![Browse Courses](images/browse.png)](images/browse.png)
 
 ### Course Information
 Students will be able to select courses to view additional information about them.
