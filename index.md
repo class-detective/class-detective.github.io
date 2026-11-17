@@ -34,7 +34,7 @@ Students will be able to browse courses and filter results based on eligibility 
 ### Course Information
 Students will be able to select courses to view additional information about them.
 
-[![Course Information Mockup](images/Mockup Course.jpg)](images/Mockup Course.jpg)
+[![Course Information](images/course.png)](images/course.png)
 
 ## Planned Pages
 
