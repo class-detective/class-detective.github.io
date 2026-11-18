@@ -1,61 +1,104 @@
-
 # Class Detective
 
-**Find the classes you're eligible to take.**
+**Find the classes you're eligible to take—and plan your next semester with friends.**
 
 ## About Class Detective
 
-Class Detective is a web application designed to help students discover courses they are eligible to take based on their academic history.
+Class Detective is a web application designed to help students discover courses, understand prerequisites, and plan their academic paths using their course histories.
 
-Rather than manually searching through STAR GPS and tediously checking individual prerequisites, students can upload their transcripts or enter their completed courses to find classes they're eligible for.
+Rather than manually sifting through Star GPS and tediously checking individual prerequisites, students can upload their transcripts to find classes they're eligible for. Class Detective also aims to make planning more collaborative: students will be able to add friends and see which classes their friends are planning to take.
 
-[![Landing Page](images/landing.png)](images/landing.png)
-
-## Planned Features
+## Core Features
 
 ### Student Accounts
-Students will be able to register for an account and log in to access the web application.
 
-[![Signup Page](images/signup.png)](images/signup.png)
+Create an account and sign in to save academic information and course plans.
 
-[![Login Page](images/login.png)](images/login.png)
+### Transcript Uploads and Course Entry
 
-### Transcript Uploads
-Students will be able to upload their academic transcripts.
+Upload an academic transcript or manually enter completed courses to build an academic history.
 
-### Manual Course Entry
-Students will also have the option to manually enter completed courses instead of uploading a transcript.
+### Course Search and Information
 
-### Course Search
-Students will be able to browse courses and filter results based on eligibility and completed prerequisites.
+Browse available courses, search for classes, and view course details such as descriptions, credits, and prerequisites.
 
-[![Browse Courses](images/browse.png)](images/browse.png)
+### Prerequisite and Eligibility Guidance
 
-### Course Information
-Students will be able to select courses to view additional information about them.
+Compare course requirements with completed coursework to identify classes a student may be eligible to take. Courses requiring instructor or department consent may need additional review.
 
-[![Course Information](images/course.png)](images/course.png)
+### Academic Planning
 
-## Planned Pages
+Explore courses for future semesters and keep track of classes you plan to take.
 
-Our application will include the following pages:
+### Friends and Shared Plans
 
-- **Registration:** Create a student account.
-- **Login:** Sign in to an existing account.
-- **Landing:** Welcome page with navigation to application features.
-- **Course Search:** Search for available courses.
-- **Course Display:** Browse eligible courses and view their information.
+Add friends and view the courses they plan to take, making it easier to coordinate schedules and plan classes together.
+
+## Milestone 1: Current Progress
+
+Milestone 1 established the initial application and development workflow. Our team has worked on:
+
+- A deployed Next.js application with a landing page and shared navigation.
+- Front-end login and registration pages, including form fields and basic validation. Full account authentication is still being integrated.
+- A course-browsing interface and course-information displays.
+- Initial integration with University of Hawaiʻi course data.
+- A transcript JSON structure and tools for processing transcript data.
+- Initial prerequisite-checking and eligibility work.
+- Additional page designs, including the About page, which is still in progress.
+
+## Deployment
+
+The current version of Class Detective is deployed on Vercel:
+
+[Visit the Class Detective application](https://class-detective.vercel.app/)
+
+## Screenshots and Mockups
+
+### Milestone 1 Application Screenshots
+
+These screenshots document the application developed during Milestone 1. They show the current interface and foundational features; some workflows are still being integrated.
+
+#### Landing Page
+
+![Class Detective landing page with campus hero and navigation](images/landing.png)
+
+#### Course Browsing
+
+![Course browsing interface showing searchable course listings](images/browse.png)
+
+#### Course Information
+
+![Individual course information page with prerequisites and sections](images/course.png)
+
+#### Login Page
+
+![Class Detective login form](images/login.png)
+
+#### Registration Page
+
+![Class Detective registration form](images/signup.png)
+
+## Project Management
+
+Our development is organized through GitHub issues and milestone project boards.
+
+- [Class Detective GitHub Organization](https://github.com/class-detective)
+- [Application Repository](https://github.com/class-detective/class-detective)
+- [Project Website Repository](https://github.com/class-detective/class-detective.github.io)
+- [Milestone 1 Project Board](https://github.com/orgs/class-detective/projects/1)
+- [Milestone 2 Project Board](https://github.com/orgs/class-detective/projects/3)
+- [Team Contract](https://docs.google.com/document/d/1NyuTZiJUWoBOSJZe7WiHT4qbRAU3zjKPXhlXxllPdr8/edit?usp=sharing)
+
+The M1 board records completed issues, effort estimates, and reconstructed actual coding and non-coding effort. The M2 board tracks the work planned for the next milestone.
 
 ## Beyond the Basic Features
 
-Once our core functionality is complete, we hope to explore additional features:
+After the core features are working, additional features we may explore include:
 
-- Sorting courses by professor
-- Professor ratings
-- Filtering by campus and semester
-- Viewing past transcripts
-- Uploading new transcripts
-- Account management and profile customization
+- Professor ratings and additional professor-based filtering.
+- More advanced sorting and filters for semester and campus.
+- Expanded transcript history tools.
+- Account profile customization.
 
 ## Development Team
 
