@@ -44,7 +44,6 @@ Milestone 1 established the initial application and development workflow. Our te
 - Initial integration with University of Hawaiʻi course data.
 - A transcript JSON structure and tools for processing transcript data.
 - Initial prerequisite-checking and eligibility work.
-- Additional page designs, including the About page, which is still in progress.
 
 ## Deployment
 
@@ -88,8 +87,6 @@ Our development is organized through GitHub issues and milestone project boards.
 - [Milestone 1 Project Board](https://github.com/orgs/class-detective/projects/1)
 - [Milestone 2 Project Board](https://github.com/orgs/class-detective/projects/3)
 - [Team Contract](https://docs.google.com/document/d/1NyuTZiJUWoBOSJZe7WiHT4qbRAU3zjKPXhlXxllPdr8/edit?usp=sharing)
-
-The M1 board records completed issues, effort estimates, and reconstructed actual coding and non-coding effort. The M2 board tracks the work planned for the next milestone.
 
 ## Beyond the Basic Features
 
