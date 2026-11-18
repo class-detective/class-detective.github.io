@@ -52,7 +52,7 @@ The current version of Class Detective is deployed on Vercel:
 
 [Visit the Class Detective application](https://class-detective.vercel.app/)
 
-## Screenshots and Mockups
+## Screenshots
 
 ### Milestone 1 Application Screenshots
 
